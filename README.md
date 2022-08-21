@@ -8,8 +8,8 @@
      
 Ruta de aprendizaje de Platzi para Java SE y Java EE.
 
-* Curso de Introducción a Java SE
-* Curso de Programación Orientada a Objetos: POO
+* Curso de Introducción a Java SE :white_check_mark:
+* Curso de Programación Orientada a Objetos: POO 
 * Curso de Java SE Orientado a Objetos
 * Curso de Kotlin desde Cero
 * Curso de Java SE Persistencia de Datos
