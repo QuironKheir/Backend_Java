@@ -8,17 +8,17 @@
      
 Ruta de aprendizaje de Platzi para Java SE y Java EE.
 
-* Curso de Introducción a Java SE :white_check_mark:
-* Curso de Programación Orientada a Objetos: POO 
-* Curso de Java SE Orientado a Objetos
-* Curso de Kotlin desde Cero
-* Curso de Java SE Persistencia de Datos
-* Curso Básico de Testing en Java
-* Curso de Programación Funcional con Java SE
-* Curso de Java Spring
-* Curso de Fundamentos de Java Spring Boot
-* Curso Avanzado de Java SE
-* Curso de Introducción al Despliegue de Aplicaciones
-* Curso de DevOps con GitLab
-* Curso Profesional de DevOps
-* Curso de Programación Funcional con Scala
+* A_Curso de Introducción a Java SE :white_check_mark:
+* B_Curso de Programación Orientada a Objetos: POO 
+* C_Curso de Java SE Orientado a Objetos
+* D_Curso de Kotlin desde Cero
+* E_Curso de Java SE Persistencia de Datos
+* F_Curso Básico de Testing en Java
+* G_Curso de Programación Funcional con Java SE
+* H_Curso de Java Spring
+* I_Curso de Fundamentos de Java Spring Boot
+* J_Curso Avanzado de Java SE
+* K_Curso de Introducción al Despliegue de Aplicaciones
+* L_Curso de DevOps con GitLab
+* M_Curso Profesional de DevOps
+* N_Curso de Programación Funcional con Scala
